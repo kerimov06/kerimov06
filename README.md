@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Spring boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me  Instagram or email
+- 📫 You can reach me  Linkedin or email
 - 😄 Pronouns: hi/him
 
 <!---
